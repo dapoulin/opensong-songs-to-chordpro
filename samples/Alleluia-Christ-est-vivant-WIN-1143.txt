@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alléluia ! Christ est vivant !</title>
+  <author>Communauté Chemin Neuf</author>
+  <copyright>© (1995)</copyright>
+  <presentation></presentation>
+  <capo print="true"></capo>
+  <tempo></tempo>
+  <ccli>WIN 1143</ccli>
+  <theme></theme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <lyrics>[V1]
+ Alléluia, alléluia ! Christ est vivant, ressuscité,
+ Alléluia, alléluia ! Christ est vivant, ressuscité.
+
+[V2]
+ La pierre du tombeau a été roulée,
+ Heureux ceux qui pleurent, ils seront consolés !
+ La pierre du tombeau a été roulée,
+ Heureux ceux qui pleurent, ils seront consolés.
+
+[V3]
+ En lui se lèvent la justice et la paix,
+ Heureux ceux qui peinen,t ils seront relevés.
+ En lui se lèvent la justice et la paix,
+ Heureux ceux qui peinent, ils seront relevés.
+
+[V4]
+ Il est le chemin, la vie, la vérité,
+ Heureux ceux qui cherchent, ils seront rassasiés.
+ Il est le chemin, la vie, la vérité,
+ Heureux ceux qui cherchent, ils seront rassasiés.</lyrics>
+  <hymn_number></hymn_number>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <time_sig></time_sig></song>

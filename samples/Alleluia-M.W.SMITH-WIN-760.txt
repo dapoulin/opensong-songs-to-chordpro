@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alléluia</title>
+  <author>Michaël W Smith   / 1992 PSALMODIA Suisse</author>
+  <copyright>1990 MILENE MUSIC/Kingsway Communications Ltd/LTC</copyright>
+  <hymn_number></hymn_number>
+  <presentation></presentation>
+  <ccli>WIN 760</ccli>
+  <capo print="false"></capo>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <theme></theme>
+  <tempo></tempo>
+  <time_sig></time_sig>
+  <lyrics>[V1]
+ Alléluia, alléluia,
+ Gloire à Dieu le Seigneur Tout-Puissant.
+ Alléluia, alléluia,
+ Gloire à Dieu le Seigneur Tout-Puissant.
+ Alléluia.
+
+[V2]
+ Tu es saint, trois fois saint,
+ Dieu Tout-Puissant. Eternel.
+ Louange à l'Agneau.
+ Louange à l'Agneau,
+ car Toi seul est saint, trois fois saint.
+ Dieu Tout-Puissant. Eternel.
+ Louange à l'Agneau.
+ Louange à l'Agneau, amen !
+</lyrics></song>

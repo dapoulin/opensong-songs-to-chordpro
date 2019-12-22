@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="song">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="title" type="xs:string" minOccurs="0" />
+        <xs:element name="author" type="xs:string" minOccurs="0" />
+        <xs:element name="copyright" type="xs:string" minOccurs="0" />
+        <xs:element name="hymn_number" type="xs:string" minOccurs="0" />
+        <xs:element name="presentation" type="xs:string" minOccurs="0" />
+        <xs:element name="ccli" type="xs:string" minOccurs="0" />
+        <xs:element name="key" type="xs:string" minOccurs="0" />
+        <xs:element name="aka" type="xs:string" minOccurs="0" />
+        <xs:element name="key_line" type="xs:string" minOccurs="0" />
+        <xs:element name="user1" type="xs:string" minOccurs="0" />
+        <xs:element name="user2" type="xs:string" minOccurs="0" />
+        <xs:element name="user3" type="xs:string" minOccurs="0" />
+        <xs:element name="theme" type="xs:string" minOccurs="0" />
+        <xs:element name="tempo" type="xs:string" minOccurs="0" />
+        <xs:element name="time_sig" type="xs:string" minOccurs="0" />
+        <xs:element name="lyrics" type="xs:string" minOccurs="0" />
+        <xs:element name="capo" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="print" type="xs:string" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="song" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

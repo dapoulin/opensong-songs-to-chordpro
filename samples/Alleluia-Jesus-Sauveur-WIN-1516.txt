@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alléluia, Jésus Sauveur</title>
+  <author>B. Melois</author>
+  <copyright>Editions de L'Emmanuel © (1990)</copyright>
+  <presentation></presentation>
+  <capo print="true"></capo>
+  <tempo></tempo>
+  <ccli>WIN 1516</ccli>
+  <theme></theme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <lyrics>[V1]
+ Alléluia, (x5)
+
+[V2]
+ A pleine voix louons le Seigneur,
+ Que règne en nos cœurs celui qui est la vie,
+ Ouvrez les yeux, le royaume est là,
+ Jésus nous appelle.
+
+[V3]
+ Il est venu donner sa lumière,
+ Nous donner sa vie, nous révéler son cœur,
+ Christ est Seigneur pour l'éternité,
+ A lui la victoire !
+
+[V4]
+ Il nous envoie par toute la terre,
+ Annoncer la joie, annoncer l'Evangile,
+ Proclamez-le dans tout l'univers :
+ "Dieu sauve son peuple !"</lyrics>
+  <hymn_number></hymn_number>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <time_sig></time_sig></song>

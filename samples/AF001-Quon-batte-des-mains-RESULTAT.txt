@@ -1,0 +1,38 @@
+{title:AF001 Qu'on batte des mains}
+{subtitle:}
+{key:C} 
+{d_ok:C}
+{d_capo:0}
+{d_tempo:120}
+{tempo:120}
+{metronome:120}
+{time:4/4} 
+{ccli:12345} 
+{artist:} 
+{author:Théodore De Bèze / Louis Bourgeois}
+{album:} 
+{footer:© Psaume 47. Reproduction et distribution interdite.}
+
+[V1]
+ Qu'on batte des mains ! Que tous les humains,
+ En cet heureux jour, viennent tour à tour
+ D'un chant solennel louer l'Eternel.
+ Peuples, il vous faut craindre le Très-Haut,
+ Le grand Roi qui peut faire quand Il veut
+ Trembler à Sa voix les plus puissants rois.
+ 
+[V2]
+ Par son grand pouvoir Il nous fera voir
+ Les peuples soumis ; et nos ennemis,
+ Par lui châtiés seront sous nos pieds,
+ Ce Maître si doux a choisi pour nous
+ La meilleure part, et, sous son regard,
+ Israël en paix triomphe à jamais.
+ 
+[V3]
+ Peuples, le voici qui se montre ici.
+ Que pour l'honorer, que pour l'adorer,
+ On aille au-devant du grand Dieu vivant !
+ Chantez donc, chantez Ses grandes bontés ;
+ D'un cœur plein de foi chantez notre Roi,
+ Le vrai, le seul Dieu, qui règne en tout lieu.

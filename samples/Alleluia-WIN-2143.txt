@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <title>Alléluia</title>
+  <author>Sylvie Collé</author>
+  <copyright>Collé Sylvie / Administré par LTC © (2000)</copyright>
+  <presentation></presentation>
+  <capo print="true"></capo>
+  <tempo></tempo>
+  <ccli>WIN 2143</ccli>
+  <theme></theme>
+  <user1></user1>
+  <user2></user2>
+  <user3></user3>
+  <lyrics>[V1]
+ Alléluia, Allélu... Allé...lu... ia (bis)
+
+[V2]
+ Jésus est le roi, il est le roi de gloire,
+ Il est élevé plus haut que les nuées.
+
+[V3]
+ Jésus est le roi, il est le roi de gloire,
+ Il a donné sa vie pour que tu soies sauvé.
+
+[V4]
+ Jésus est le roi, il est le roi de gloire,
+ Il est ressuscité, son tombeau il a quitté.
+
+[V5]
+ Jésus est le roi, il est le roi de gloire,
+ Il a choisi ton cœur pour en faire sa demeure.</lyrics>
+  <hymn_number></hymn_number>
+  <key></key>
+  <aka></aka>
+  <key_line></key_line>
+  <time_sig></time_sig></song>

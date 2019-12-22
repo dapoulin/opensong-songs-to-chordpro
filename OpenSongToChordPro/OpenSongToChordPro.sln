@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSongToChordPro", "OpenSongToChordPro\OpenSongToChordPro.csproj", "{0B95C575-BCB2-49AC-8ABF-6CA754B87A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSongToChordPro.Core", "OpenSongToChordPro.Core\OpenSongToChordPro.Core.csproj", "{635EB056-A6E2-421C-A30B-19E96CA33EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B95C575-BCB2-49AC-8ABF-6CA754B87A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B95C575-BCB2-49AC-8ABF-6CA754B87A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B95C575-BCB2-49AC-8ABF-6CA754B87A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B95C575-BCB2-49AC-8ABF-6CA754B87A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635EB056-A6E2-421C-A30B-19E96CA33EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635EB056-A6E2-421C-A30B-19E96CA33EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635EB056-A6E2-421C-A30B-19E96CA33EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635EB056-A6E2-421C-A30B-19E96CA33EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
